@@ -1,0 +1,81 @@
+INFO:root:initializing DNA with length 40
+INFO:root:dna has length 40
+INFO:root:at position 0 at time 0
+INFO:root:at position 1 at time 1
+INFO:root:at position 2 at time 2
+INFO:root:at position 3 at time 3
+INFO:root:at position 4 at time 4
+INFO:root:at position 5 at time 5
+INFO:root:at position 6 at time 6
+INFO:root:at position 5 at time 7
+INFO:root:at position 4 at time 8
+INFO:root:at position 3 at time 9
+INFO:root:at position 4 at time 10
+INFO:root:at position 5 at time 11
+INFO:root:at position 6 at time 12
+INFO:root:at position 7 at time 13
+INFO:root:at position 8 at time 14
+INFO:root:at position 9 at time 15
+INFO:root:at position 10 at time 16
+INFO:root:at position 11 at time 17
+INFO:root:at position 10 at time 18
+INFO:root:at position 11 at time 19
+INFO:root:at position 12 at time 20
+INFO:root:at position 13 at time 21
+INFO:root:at position 14 at time 22
+INFO:root:at position 13 at time 23
+INFO:root:at position 12 at time 24
+INFO:root:at position 11 at time 25
+INFO:root:at position 12 at time 26
+INFO:root:at position 11 at time 27
+INFO:root:at position 12 at time 28
+INFO:root:at position 13 at time 29
+INFO:root:at position 14 at time 30
+INFO:root:at position 15 at time 31
+INFO:root:at position 16 at time 32
+INFO:root:at position 15 at time 33
+INFO:root:at position 16 at time 34
+INFO:root:at position 17 at time 35
+INFO:root:at position 18 at time 36
+INFO:root:at position 19 at time 37
+INFO:root:at position 20 at time 38
+INFO:root:at position 21 at time 39
+INFO:root:at position 20 at time 40
+INFO:root:at position 21 at time 41
+INFO:root:at position 22 at time 42
+INFO:root:at position 23 at time 43
+INFO:root:at position 24 at time 44
+INFO:root:at position 25 at time 45
+INFO:root:at position 26 at time 46
+INFO:root:at position 27 at time 47
+INFO:root:at position 28 at time 48
+INFO:root:at position 29 at time 49
+INFO:root:at position 30 at time 50
+INFO:root:at position 31 at time 51
+INFO:root:at position 32 at time 52
+INFO:root:at position 33 at time 53
+INFO:root:at position 34 at time 54
+INFO:root:at position 33 at time 55
+INFO:root:at position 34 at time 56
+INFO:root:at position 33 at time 57
+INFO:root:at position 34 at time 58
+INFO:root:at position 33 at time 59
+INFO:root:at position 32 at time 60
+INFO:root:at position 33 at time 61
+INFO:root:at position 34 at time 62
+INFO:root:at position 33 at time 63
+INFO:root:at position 34 at time 64
+INFO:root:at position 35 at time 65
+INFO:root:at position 36 at time 66
+INFO:root:at position 35 at time 67
+INFO:root:at position 36 at time 68
+INFO:root:at position 37 at time 69
+INFO:root:at position 38 at time 70
+INFO:root:at position 39 at time 71
+INFO:root:initial transition matrix: [[ 0.    1.    0.   ...,  0.    0.    0.  ]
+ [ 0.25  0.    0.75 ...,  0.    0.    0.  ]
+ [ 0.    0.25  0.   ...,  0.    0.    0.  ]
+ ..., 
+ [ 0.    0.    0.   ...,  0.    0.75  0.  ]
+ [ 0.    0.    0.   ...,  0.25  0.    0.75]
+ [ 0.    0.    0.   ...,  0.    1.    0.  ]]
