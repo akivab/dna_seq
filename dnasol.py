@@ -1,4 +1,5 @@
 
+
 from dnagen import *
 
 class DnaSol():
@@ -6,7 +7,7 @@ class DnaSol():
         self.t = len(sequence)
         self.T = np.zeros((L, L))
         self.z = np.zeros((self.t, L))
-        self.f = np.zeros((4, L))
+        self.f = np.ones((4, L))
         self.e = e
         self.p = p
         self.data = sequence
@@ -34,7 +35,7 @@ class DnaSol():
                 for j in xrange(0,self.L):
                     self.z[i] += self.z[i-1,j] * self.T[j]
                 self.z[i] /= sum(self.z[i])
-        #print i,self.z[i]
+            print i,self.z[i]
         for i in xrange(0,self.t):
             #print "the %dth variable has distribution %s" %(i, str(self.z[i]))
             for k in xrange(0,4):
